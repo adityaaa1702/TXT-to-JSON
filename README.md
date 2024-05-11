@@ -11,7 +11,7 @@ This Python script converts text files containing questions and answers into str
 ## Usage
 
 1. **Clone the repository:**
-git clone https://github.com/your-username/txt-to-json-converter.git
+git clone https://github.com/adityaaa1702/TXT-to-JSON.git
 
 
 2. **Install the required dependencies:**
