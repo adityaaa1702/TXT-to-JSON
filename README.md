@@ -8,19 +8,13 @@ Usage
 
 Clone the repository:
 
-bash
-Copy code
 git clone https://github.com/adityaaa1702/TXT-to-JSON-converter.git
 
 
 Install the required dependencies:
-bash
-Copy code
 pip install -r requirements.txt
 
 Run the script:
-bash
-Copy code
 python txt_to_json_converter.py
 Select the input TXT file containing the questions and answers.
 
