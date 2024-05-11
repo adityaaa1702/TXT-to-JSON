@@ -11,17 +11,18 @@ This Python script converts text files containing questions and answers into str
 ## Usage
 
 1. **Clone the repository:**
+   
 git clone https://github.com/adityaaa1702/TXT-to-JSON.git
 
 
-2. **Install the required dependencies:**
+3. **Install the required dependencies:**
 pip install -r requirements.txt
 
 
-3. **Run the script:**
+4. **Run the script:**
 python txt_to_json_converter.py
 
-4. **Select the input TXT file containing the questions and answers.**
+5. **Select the input TXT file containing the questions and answers.**
    
 6. **Click the "Convert to JSON" button to generate the JSON file.**
 
@@ -35,7 +36,7 @@ The script utilizes Tkinter, a standard GUI toolkit for Python, to create a user
 - `requirements.txt`: Contains the required dependencies.
 - `LICENSE`: License information for the project.
 - `README.md`: Overview and instructions for using the script.
-- `example.txt`: Example input text file for testing.
+
 
 ## Contributing
 
