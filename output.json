@@ -1,0 +1,173 @@
+[
+  {
+    "questionId": 481221,
+    "questionNumber": 1,
+    "questionText": "If $\\Delta=\\left|\\begin{array}{lll}a_{11} & a_{12} & a_{13} \\\\ a_{21} & a_{22} & a_{23} \\\\ a_{31} & a_{32} & a_{33}\\end{array}\\right|$ and $A_{i j}$ is co-factor of $a_{i j}$, then",
+    "correctOption": "D",
+    "options": [
+      {
+        "optionNumber": 1,
+        "optionText": "$a_{11} A_{31}+a_{12} A_{32}+a_{13} A_{33}$",
+        "isCorrect": false
+      },
+      {
+        "optionNumber": 2,
+        "optionText": "$a_{11} A_{11}+a_{12} A_{21}+a_{13} A_{31}$",
+        "isCorrect": false
+      },
+      {
+        "optionNumber": 3,
+        "optionText": "$a_{21} A_{11}+a_{22} A_{12}+a_{23} A_{13}$",
+        "isCorrect": false
+      },
+      {
+        "optionNumber": 4,
+        "optionText": "$a_{11} A_{11}+a_{21} A_{21}+a_{31} A_{31}$",
+        "isCorrect": true
+      }
+    ],
+    "solutionText": null
+  },
+  {
+    "questionId": 481222,
+    "questionNumber": 2,
+    "questionText": "If the matrix $\\left[\\begin{array}{ccc}0 & -1 & 3 x \\\\ 1 & y & -5 \\\\ -6 & 5 & 0\\end{array}\\right]$ is skew symmetric, then",
+    "correctOption": "B",
+    "options": [
+      {
+        "optionNumber": 1,
+        "optionText": "6",
+        "isCorrect": false
+      },
+      {
+        "optionNumber": 2,
+        "optionText": "12",
+        "isCorrect": true
+      },
+      {
+        "optionNumber": 3,
+        "optionText": "18",
+        "isCorrect": false
+      },
+      {
+        "optionNumber": 4,
+        "optionText": "2",
+        "isCorrect": false
+      }
+    ],
+    "solutionText": null
+  },
+  {
+    "questionId": 481223,
+    "questionNumber": 3,
+    "questionText": "If $\\left|\\begin{array}{cc}3 & -4 \\\\ 2 & 1\\end{array}\\right|=\\left|\\begin{array}{cc}2 x & 5 \\\\ 1 & x\\end{array}\\right|$ then $|x|$ is equal to",
+    "correctOption": "C",
+    "options": [
+      {
+        "optionNumber": 1,
+        "optionText": "$\\sqrt{\\frac{5}{2}}$",
+        "isCorrect": false
+      },
+      {
+        "optionNumber": 2,
+        "optionText": "4",
+        "isCorrect": false
+      },
+      {
+        "optionNumber": 3,
+        "optionText": "$2 \\sqrt{2}$",
+        "isCorrect": true
+      },
+      {
+        "optionNumber": 4,
+        "optionText": "2",
+        "isCorrect": false
+      }
+    ],
+    "solutionText": null
+  },
+  {
+    "questionId": 481224,
+    "questionNumber": 4,
+    "questionText": "Which of the following statements are true?",
+    "correctOption": "B",
+    "options": [
+      {
+        "optionNumber": 1,
+        "optionText": "A and C only",
+        "isCorrect": false
+      },
+      {
+        "optionNumber": 2,
+        "optionText": "B and C only",
+        "isCorrect": true
+      },
+      {
+        "optionNumber": 3,
+        "optionText": "C and D only",
+        "isCorrect": false
+      },
+      {
+        "optionNumber": 4,
+        "optionText": "B and D only",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionId": 481225,
+    "questionNumber": 5,
+    "questionText": "The interval in which $y=x^{2} e^{2 x}$ is increasing is",
+    "correctOption": "C",
+    "options": [
+      {
+        "optionNumber": 1,
+        "optionText": "$(-\\infty,-1)$",
+        "isCorrect": false
+      },
+      {
+        "optionNumber": 2,
+        "optionText": "$(-1, \\infty)$",
+        "isCorrect": false
+      },
+      {
+        "optionNumber": 3,
+        "optionText": "$(-\\infty,-1) \\cup(0, \\infty)$",
+        "isCorrect": true
+      },
+      {
+        "optionNumber": 4,
+        "optionText": "$(-\\infty, 0) \\cup(1, \\infty)$",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionId": 481226,
+    "questionNumber": 6,
+    "questionText": "If $x=t^{3}, y=t^{4}$ then $\\frac{d^{2} y}{d x^{2}}$ at $t=2$ is",
+    "correctOption": "B",
+    "options": [
+      {
+        "optionNumber": 1,
+        "optionText": "$\\frac{8}{3}$",
+        "isCorrect": false
+      },
+      {
+        "optionNumber": 2,
+        "optionText": "$\\frac{1}{9}$",
+        "isCorrect": true
+      },
+      {
+        "optionNumber": 3,
+        "optionText": "$\\frac{2}{9}$",
+        "isCorrect": false
+      },
+      {
+        "optionNumber": 4,
+        "optionText": "$\\frac{9}{16}$",
+        "isCorrect": false
+      }
+    ]
+  }
+]
