@@ -30,6 +30,9 @@ python txt_to_json_converter.py
 
 The script utilizes Tkinter, a standard GUI toolkit for Python, to create a user-friendly interface. Tkinter provides a simple way to build graphical applications and makes it easy to create buttons, labels, and file dialogs for interaction with the user.
 
+![Screenshot 2024-05-11 163213](https://github.com/adityaaa1702/TXT-to-JSON/assets/132464789/089d1a6f-8e06-4fa4-8864-fdbf6a64cc76)
+
+
 ## File Structure
 
 - `txt_to_json_converter.py`: The main Python script.
